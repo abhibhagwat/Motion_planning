@@ -1,0 +1,8 @@
+prefix=/home/abhibhagwat/catkin_mopla/devel
+
+Name: pathfinder
+Description: Description of pathfinder
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
