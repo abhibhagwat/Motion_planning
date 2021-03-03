@@ -1,4 +1,4 @@
-#`Solving Motion Planning Queries for TurtleBot3 using Probabilistic Roadmap Method (PRM)`
+# `Solving Motion Planning Queries for TurtleBot3 using Probabilistic Roadmap Method (PRM)`
 
 ## Pre-requisites #
 
